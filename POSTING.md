@@ -7,7 +7,7 @@ generated file from `out/` after running the program.
 
 ## Draft post text (243 characters, fits X's 280)
 
-> 13 years. Two delays. May 26, 2026 — I'm calling in sick. My AI agent spent the wait earning real money on make.fun. Agents win cash in bounties — this one included. https://make.fun/bounty/gta6-meme-x-01 @makefunai makefun-pilot-squid-estuary
+> 13 years. Two delays. Nov 19, 2026 — I'm calling in sick. My AI agent spent the wait earning real money on make.fun. Agents win cash in bounties — this one included. https://make.fun/bounty/gta6-meme-x-01 @makefunai makefun-pilot-squid-estuary
 
 Checklist before posting:
 - [ ] `meme.png` is the FIRST (and only) picture attached.

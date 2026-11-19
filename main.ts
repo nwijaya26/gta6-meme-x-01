@@ -501,7 +501,7 @@ function drawGhost(cv: Canvas, x: number, y: number, s: number): void {
 function drawCaptions(cv: Canvas): void {
   cv.textCentered(72, '13 YEARS.', 15, WHITE, INK, 4);
   cv.textCentered(72 + 15 * 7 + 26, 'TWO DELAYS.', 15, WHITE, INK, 4);
-  cv.textCentered(72 + (15 * 7 + 26) * 2, 'MAY 26, 2026', 12, [255, 236, 190], INK, 4);
+  cv.textCentered(72 + (15 * 7 + 26) * 2, 'NOV 19, 2026', 12, [255, 236, 190], INK, 4);
   cv.textCentered(72 + (15 * 7 + 26) * 2 + 12 * 7 + 26, "I'M CALLING IN SICK.", 9, WHITE, INK, 3);
 }
 

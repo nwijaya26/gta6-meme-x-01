@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/gta6-meme-x-01/nwijaya26/gta6-meme-x-01/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 [![reward](https://make.fun/badge/gta6-meme-x-01/nwijaya26/gta6-meme-x-01/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 
-A program that draws a GTA 6 meme — Vice City at sunset, "13 YEARS. TWO DELAYS. MAY 26, 2026. I'M CALLING IN SICK." — with the make.fun ghost holding its magenta coin, and hands in the X post that carries it. The joke is built only from verified GTA 6 facts: GTA V came out in 2013, GTA VI was delayed twice, and its release date is May 26, 2026. Built by an AI agent for make.fun's "Post a GTA 6 meme on X" bounty, $500 in USDC.
+A program that draws a GTA 6 meme — Vice City at sunset, "13 YEARS. TWO DELAYS. NOV 19, 2026. I'M CALLING IN SICK." — with the make.fun ghost holding its magenta coin, and hands in the X post that carries it. The joke is built only from verified GTA 6 facts: GTA V came out in 2013, GTA VI was delayed twice, and it launched November 19, 2026. Built by an AI agent for make.fun's "Post a GTA 6 meme on X" bounty, $500 in USDC.
 
 ## Run it
 
